@@ -4,9 +4,9 @@ Some content
 
 Some more content
 
--   in
--   the second
--   cell
+- in
+- the second
+- cell
 
 ```js
 const thisCell = "A js code block";
