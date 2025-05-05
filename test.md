@@ -1,9 +1,7 @@
 # Test markdown file
-
 Some content
 
 Some more content
-
 - in
 - the second
 - cell
